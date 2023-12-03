@@ -1,7 +1,7 @@
 ### Hi there is huangxk23👋
 ---
 - 🔭 I’m currently working on computer graphics and computer vision.
-- 🌱 I’m currently learning unreal engine and OpenGL/ES.
+- 🌱 I’m currently learning unreal engine and OpenGL.
 
 ---
 ### :fire: My Stats :
